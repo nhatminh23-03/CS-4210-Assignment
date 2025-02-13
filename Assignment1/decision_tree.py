@@ -5,7 +5,7 @@
 #                the categorical features and labels into numbers, fits a
 #                decision tree classifier using entropy, and then plots the tree.
 # FOR: CS 4210- Assignment #1
-# TIME SPENT: 8 hours
+# TIME SPENT: 4 hours and 30 minutes
 #-------------------------------------------------------------------------
 
 # Importing required libraries
