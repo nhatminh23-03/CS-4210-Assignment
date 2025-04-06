@@ -93,15 +93,3 @@ for learning_rate in n: #iterates over n
                 if accuracy > best_mlp_acc:
                     best_mlp_acc = accuracy
                     print(f"Highest MLP accuracy so far: {accuracy:.3f}, Parameters: learning rate={learning_rate}, shuffle={do_shuffle}")
-
-
-
-
-
-
-
-
-
-
-
-
