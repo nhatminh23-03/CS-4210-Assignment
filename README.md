@@ -21,6 +21,7 @@ For example:
 cd Assignment1  # Navigate to Assignment 1
 cd Assignment2  # Navigate to Assignment 2
 cd Assignment3  # Navigate to Assignment 3
+cd Assignment4  # Navigate to Assignment 4
 ```
 
 Make sure you are inside the correct assignment folder before running any scripts or tests.
